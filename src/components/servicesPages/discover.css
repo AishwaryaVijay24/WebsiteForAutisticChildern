@@ -1,0 +1,56 @@
+/* discover.css */
+
+.allContent {
+    background-color: #ffffff; /* Set the background color to blue */
+    width: 100%;
+}
+
+.section2 {
+    padding-top: 2%;
+    padding-bottom: 4%;
+    margin-top: 100px;
+}
+
+.main-heading6 {
+    color: #141413;
+    font-size: 26px;
+    margin-top: 30px;
+}
+
+
+
+.bg-c-light {
+    background-color: rgb(243, 243, 243);
+}
+
+.paragraph47 {
+    font-size: 19px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+.container9{
+    
+        display: flex;
+        flex-direction: column;
+        margin: auto;
+        margin-top: -20px;
+        margin-bottom: -45px;
+        width: 1050px;
+        background: #ffffff;
+        padding-bottom: 30px;
+        
+        
+    
+}
+
+.paragraph777{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.main-heading222{
+    margin-top: 50px;
+    margin-bottom: 10px;
+}

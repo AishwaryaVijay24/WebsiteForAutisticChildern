@@ -1,0 +1,15 @@
+
+  /* Style for the heading */
+  h2 {
+    color: rgb(0, 0, 0);
+  }
+  
+  /* Style for the terms and conditions text */
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #070707;
+    align-items: baseline;
+    text-align: justify
+  }

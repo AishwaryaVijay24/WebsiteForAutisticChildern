@@ -1,0 +1,42 @@
+.TreatContent{
+    margin-top: 0;
+    background-color: #ffffff;
+}
+.media {
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+}
+
+.brainimg {
+    max-width: 512px;
+    margin-right: 70px; 
+}
+
+
+
+.section125{
+    background-color: #8edde7;
+}
+
+.container5{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 550px;
+    background-color: rgb(255, 255, 255);
+    padding-bottom: 30px;
+    
+
+  }
+
+
+
+  .underline1{
+    border-bottom: 2px solid red; /* Adjust the border thickness and color as needed */
+  text-decoration: none;
+  }
